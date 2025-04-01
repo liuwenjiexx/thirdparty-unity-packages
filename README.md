@@ -77,7 +77,9 @@ npm publish --registry http://localhost:4873
 
 ![Menu-Add package by name](README/Menu-Add package by name.PNG)
 
-![Add package by name](README/Add package by name.PNG)
+
+
+![Add package by name](README\Add package by name.PNG)
 
 添加成功
 
