@@ -1,8 +1,7 @@
 {
-  "name": "com.ceen.httpd",
+  "name": "thirdparty.ceen.httpd",
   "displayName": "SSL Http",
   "version": "0.9.9",
-  "unity": "2020.3",
   "description": "Support SSL https. git:https://github.com/kenkendk/ceenhttpd",
   "dependencies": {
   },
