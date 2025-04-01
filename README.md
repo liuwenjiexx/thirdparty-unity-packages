@@ -75,11 +75,11 @@ npm publish --registry http://localhost:4873
 
 1. `Package Manager` 窗口点击 `+` 按钮，选择 `Add package by name` 
 
-![Menu-Add package by name](README/Menu-Add package by name.PNG)
+<img src="README/Menu-Add package by name.PNG" alt="Menu-Add package by name" style="zoom:80%;" />
 
 
 
-![Add package by name](README\Add package by name.PNG)
+<img src="README\Add package by name.PNG" alt="Add package by name" style="zoom:80%;" />
 
 添加成功
 
